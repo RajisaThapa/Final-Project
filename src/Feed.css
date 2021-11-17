@@ -1,0 +1,18 @@
+.feed {
+    align-items: center;
+flex: 0.7;
+ border-right: 1px solid var(--circle-background);
+min-width: fit-content;
+overflow: scroll;
+}
+
+.feed::-webkit-scrollbar {
+    display: none;
+}
+.feed{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+ 
+
+

@@ -1,0 +1,18 @@
+.sidebar {
+    border-right: 5px solid wheat;
+   flex: 0.3;
+   min-width: 250px;
+   margin-top: 20px;
+   padding-left: 20px;
+   padding-right:20px ;
+}
+.post {
+    background-color: var(--circle-color) !important;
+    border: none !important;
+    color: rgb(102, 22, 49);
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 50px !important;
+    margin-top: 20px !important;
+}
